@@ -1,0 +1,140 @@
+body {
+  background-color: aqua;
+  font-style: oblique;
+  position: static;
+}
+
+img {
+  height: 400px;
+  width: auto;
+  padding: 17px;
+}
+
+h2 {
+  font-size: 50px;
+  color: black;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h6 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 30px;
+  color: red;
+  background-color: white;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 75px;
+}
+
+#jio {
+  color: black;
+  background-color: gold;
+  font-size: 50px;
+}
+
+#ji {
+  color: lime;
+  background-color: black;
+}
+
+#name {
+  color: yellow;
+  background-color: orangered;
+}
+
+#bday {
+  color: yellow;
+  background-color: orangered;
+  font-size: 60px;
+}
+
+#fire {
+  height: 82px;
+  top: 463px;
+  left: 420px;
+  position: absolute;
+}
+
+hr {
+  border-style: outset;
+  border-width: 10px;
+}
+
+label {
+  color: red;
+}
+
+#ID {
+  text-decoration: none;
+  background-color: yellow;
+  color: blue;
+  font-size: 60px
+}
+
+.button {
+  height: 50px;
+  width: 700px;
+  background-color: gray;
+  color: white;
+}
+
+.wow {
+  text-decoration: none;
+  color: blue;
+}
+
+h6 {
+  padding-top: 15px;
+  background-color: black;
+  color: white;
+  height: 60px;
+  text-align: center;
+}
+
+.am {
+  background-color: black;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  font-family: monospace;
+}
+
+.a {
+  background-color: black;
+  color: white;
+  font-size: 60px;
+  text-align: center;
+  font-family: monospace;
+  padding-bottom: 1PX;
+}
+
+.au {
+  font-size: 70px;
+  text-align: center;
+}
+
+.aue {
+  padding-left: 800px;
+  font-size: 90px;
+  text-decoration: none;
+}
+
+.p {
+  font-size: 50px;
+  font-family: sans-serif;
+}
